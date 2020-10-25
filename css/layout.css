@@ -1,0 +1,8 @@
+body {
+ padding-top: 70px;
+}
+.wrap {
+ overflow: hidden;
+ text-overflow: ellipsis;
+ white-space: nowrap;
+}
